@@ -32,3 +32,6 @@ moc_*
 ui_*
 qrc_*
 travis_qmake_gcc_cpp98_qt5_oclint
+*.tar.gz
+oclint-0.10.3/
+oclint.log
