@@ -37,7 +37,6 @@ script:
 
 after_success:
   - cat oclint.log
-  - cd /; find -P . -name algorithm
 
 after_failure:
   - cat oclint.log
