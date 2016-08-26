@@ -9,7 +9,7 @@ namespace Ui {
 
 class my_qt5_dialog : public QDialog
 {
-  Q_OBJECT
+  Q_OBJECT //!OCLINT
 
 public:
   explicit my_qt5_dialog(QWidget *parent = 0);
